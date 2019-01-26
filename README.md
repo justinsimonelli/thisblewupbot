@@ -1,4 +1,4 @@
-# Edit: this blew up! bot
+# Edit: this blew up! A bot for Reddit
 ---
 Don't you hate when people say that? Fear no more, this bot will leave a wonderful comment on those posts that blew up!
 
